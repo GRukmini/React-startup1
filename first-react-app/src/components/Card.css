@@ -1,0 +1,11 @@
+.cardText{
+    display:inline-block;
+     margin:10px;}
+.card{
+    margin:1em;
+}
+.nameDiv{
+    font-size:'1.25em';
+    font-weight:'bold';
+}
+img {width:75px}
